@@ -8,9 +8,8 @@ Student Drone Team from the University of Twente Netherlands
 
 __author__ = "Gabriel Damian"
 __copyright__ = "Copyright 2018, A3T"
-__credits__ = ["Rob Knight", "Peter Maxwell", "Gavin Huttley",
-                    "Matthew Wakefield"]
-__license__ = "Open Source"
+__credits__ = ["Team OpenMakerDrone at Yonsei Univ for the SimpleLineDetection and GUIDED_NOGPS"]
+__license__ = "Private, OpenMakerDrone"
 __version__ = "1.0.1"
 __maintainer__ = "Gabriel Damian"
 __email__ = "g.d.damian@student.utwente.nl"
